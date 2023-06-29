@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T15:35:33 EDT" name="Default suite" finished-at="2023-06-28T15:35:49 EDT" duration-ms="16096">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T15:35:33 EDT" name="Default test" finished-at="2023-06-28T15:35:49 EDT" duration-ms="16096">
+      <class name="TC.tc5_3">
+        <test-method signature="emeptyVinSearchtestChrome()[pri:1, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:33 EDT" name="emeptyVinSearchtestChrome" finished-at="2023-06-28T15:35:37 EDT" duration-ms="4301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emeptyVinSearchtestChrome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:37 EDT" name="tearDown" finished-at="2023-06-28T15:35:38 EDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="emeptyVinSearchTestEdge()[pri:2, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:38 EDT" name="emeptyVinSearchTestEdge" finished-at="2023-06-28T15:35:43 EDT" duration-ms="5097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emeptyVinSearchTestEdge -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:43 EDT" name="tearDown" finished-at="2023-06-28T15:35:43 EDT" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="emptyVinSearchTestFirefox()[pri:3, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:43 EDT" name="emptyVinSearchTestFirefox" finished-at="2023-06-28T15:35:48 EDT" duration-ms="5217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyVinSearchTestFirefox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TC.tc5_3@6a6afff2]" started-at="2023-06-28T15:35:48 EDT" name="tearDown" finished-at="2023-06-28T15:35:49 EDT" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TC.tc5_3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
